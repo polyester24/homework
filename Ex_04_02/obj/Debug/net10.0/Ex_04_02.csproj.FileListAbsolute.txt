@@ -1,0 +1,15 @@
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.AssemblyInfoInputs.cache
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.AssemblyInfo.cs
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.csproj.CoreCompileInputs.cache
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.sourcelink.json
+C:\homework\Ex_04_02\bin\Debug\net10.0\Ex_04_02.exe
+C:\homework\Ex_04_02\bin\Debug\net10.0\Ex_04_02.deps.json
+C:\homework\Ex_04_02\bin\Debug\net10.0\Ex_04_02.runtimeconfig.json
+C:\homework\Ex_04_02\bin\Debug\net10.0\Ex_04_02.dll
+C:\homework\Ex_04_02\bin\Debug\net10.0\Ex_04_02.pdb
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.dll
+C:\homework\Ex_04_02\obj\Debug\net10.0\refint\Ex_04_02.dll
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.pdb
+C:\homework\Ex_04_02\obj\Debug\net10.0\Ex_04_02.genruntimeconfig.cache
+C:\homework\Ex_04_02\obj\Debug\net10.0\ref\Ex_04_02.dll
